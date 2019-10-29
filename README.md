@@ -1,2 +1,2 @@
 # NumberOfShapes
-Interesting programming problem
+Find the number of shapes in the Grid
